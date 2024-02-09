@@ -1,0 +1,14 @@
+/* 
+  InfoPlist.strings
+  Noteit
+
+  Created by oblank on 2024/1/18.
+  
+*/
+"CFBundleDisplayName" = "Noteit";
+"NSMicrophoneUsageDescription" = "Demande d'utilisation du microphone pour l'enregistrement";
+"NSFaceIDUsageDescription" = "Utilisé pour le déverrouillage de l'application";
+"NSPhotoLibraryAddUsageDescription" = "Autoriser l'accès pour enregistrer ou accéder aux photos dans la bibliothèque de photos";
+"NSPhotoLibraryUsageDescription" = "Veuillez autoriser l'accès à la bibliothèque de photos";
+"NSLocationWhenInUseUsageDescription" = "Veuillez autoriser l'accès à la carte";
+

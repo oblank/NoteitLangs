@@ -1,0 +1,979 @@
+/* 
+  Localizable.strings
+  Noteit
+
+  Created by oblank on 2023/12/17.
+  
+*/
+
+// APP name
+"简单记" = "Noteit";
+
+"简单记 Noteit" = "Noteit";
+
+// 首页菜单
+
+"回顾" = "Revue";
+
+"分类" = "Catégorie";
+
+"标签" = "Étiquette";
+
+"相册" = "Album";
+
+"足迹" = "Empreintes";
+
+"记录一下" = "Notez-le";
+
+// search
+
+"搜索或问我任何事情..." = "Recherchez ou demandez-moi n'importe quoi...";
+
+"咨询AI" = "Consultez l'IA";
+
+"搜标题" = "Recherche par titre";
+
+"搜内容" = "Recherche par contenu";
+"仅限有图" = "Images seulement";
+"搜音频" = "Recherche audio";
+"搜记账" = "Recherche bill";
+
+// page title
+
+"设置" = "Paramètres";
+
+"选择应用图标" = "Choisir l'icône de l'application";
+
+"用户隐私协议条款" = "Termes de la politique de confidentialité de l'utilisateur";
+
+"模式主题色" = "Couleur du thème du mode";
+
+"OpenAI授权" = "Autorisation OpenAI";
+
+"AI智能助理" = "Assistant intelligent AI";
+
+"首页样式" = "Style de la page d'accueil";
+
+"语音录制" = "Enregistrement vocal";
+
+"标签云" = "Nuage de tags";
+
+"标签" = "Étiquette";
+
+"未分类" = "Non classé";
+
+"AI智能" = "Intelligence AI";
+
+"按色筛图" = "Filtrer les images par couleur";
+
+"管理照片" = "Gérer les photos";
+
+"分析" = "Analyse";
+
+"用户标签" = "Tags de l'utilisateur";
+
+"AI智能猜标签" = "AI devine les tags";
+"新增" = "Ajouter";
+"编辑" = "Éditer";
+"选择标签" = "Choisir une étiquette";
+"选择人物" = "Choisir une personne";
+"选择分类" = "catégorie";
+"请输入标题" = "Veuillez entrer un titre";
+"请输入内容" = "Veuillez entrer le contenu";
+"释放删除" = "Relâchez pour supprimer";
+"拖到这里可删除" = "Glissez ici pour supprimer";
+"AI猜标签，请选用" = "AI devine les tags, veuillez choisir";
+"已开启iCloud云备份" = "La sauvegarde iCloud est activée";
+"iCloud云备份未开启" = "La sauvegarde iCloud n'est pas activée";
+"点击开启，谨防数据丢失" = "Cliquez pour activer, pour éviter la perte de données";
+"语音" = "Voix";
+"地址" = "Adresse";
+"和谁" = "Avec qui";
+"日期" = "Date";
+"时间" = "Heure";
+"完成" = "Terminé";
+"条语音" = "Enregistrements vocaux";
+"合计" = "Total";
+"秒" = "Secondes";
+"记・" = "Note・";
+"新分类" = "Nouvelle catégorie";
+"确定" = "Confirmer";
+"分类已经存在" = "La catégorie existe déjà";
+"已经选5个标签了，选太多啦" = "Vous avez déjà choisi 5 tags, c'est trop";
+"新标签" = "Nouveau tag";
+"选择标签%@" = "Choisir le tag %@";
+"标签已经存在" = "Le tag existe déjà";
+"CA.美食" = "Gastronomie";
+"景点" = "Attractions";
+"休闲娱乐" = "Loisirs et divertissements";
+"商场" = "Centre commercial";
+"小吃" = "Snacks";
+"影院" = "Cinéma";
+"咖啡" = "Café";
+"酒吧" = "Bar";
+"洗浴" = "Bain";
+"医院" = "Hôpital";
+"写字楼" = "Bureau";
+"公园" = "Parc";
+"政府机构" = "Organisme gouvernemental";
+"搜索" = "Recherche";
+"请选择：" = "Veuillez choisir :";
+"加载中..." = "Chargement...";
+
+
+"选择录音%@" = "Choisissez l'enregistrement %@";
+
+"左滑删除" = "Glissez à gauche pour supprimer";
+
+"点击完成录制" = "Cliquez pour terminer l'enregistrement";
+
+"语音录制" = "Enregistrement vocal";
+
+"已经选5个朋友了，选太多啦" = "Vous avez déjà choisi 5 amis, c'est trop";
+
+"新朋友" = "Nouvel ami";
+
+"选择人物%@" = "Choisissez le personnage %@";
+
+"已经存在" = "Existe déjà";
+
+"确认删除？" = "Confirmer la suppression ?";
+
+"删除后将无法恢复" = "Impossible de récupérer après suppression";
+
+"删除" = "Supprimer";
+
+"取消" = "Annuler";
+
+"字体字号" = "Taille de la police";
+
+"文本分享" = "Partage de texte";
+
+"创建于" = "Créé à";
+
+"打印" = "Imprimer";
+
+"复制" = "Copier";
+
+"复制文本" = "Copier le texte";
+
+"图片已复制，请粘贴使用" = "Image copiée, veuillez coller pour utiliser";
+
+"复制图片" = "Copier l'image";
+
+"导出" = "Exporter";
+
+"导出图片" = "Exporter l'image";
+
+"导出PDF" = "Exporter en PDF";
+
+"删除" = "Supprimer";
+
+"系统分享" = "Partage du système";
+
+"分享到树洞" = "Partager dans le trou de l'arbre";
+
+"地址已复制到剪贴板" = "L'adresse a été copiée dans le presse-papiers";
+
+"已复制到剪贴板" = "Copié dans le presse-papiers";
+
+"导航" = "Navigation";
+
+"导航去%@" = "Naviguer vers %@";
+
+"分享" = "Partager";
+
+"分享内容" = "Partager le contenu";
+
+"分享到树洞将会匿名公开地发布到微博、Twitter等" = "Partager dans le trou de l'arbre sera publié anonymement sur Weibo, Twitter, etc.";
+
+"创建于%@" = "Créé à %@";
+
+"，总%lld字" = ", total de %lld mots";
+
+"在%@进行了更新" = "Mis à jour à %@";
+
+"无题" = "Sans titre";
+
+"年月" = "Année et mois";
+
+"前天" = "Avant-hier";
+
+"天后" = "Jours plus tard";
+
+"今日" = "Aujourd'hui";
+
+"月有" = " Le mois a";
+
+"天，余" = " Jours, reste";
+
+"天" = "Jours";
+
+"当天没有记录哦" = "Pas d'enregistrement pour ce jour";
+
+"该月还没有记录哦" = "Pas d'enregistrement pour ce mois";
+
+"当天写了" = "Écrit ce jour";
+
+"记录了" = "Enregistré";
+
+"天，写了" = "Jours, écrit";
+
+"yyyy年MM月dd" = "yyyy MM dd";
+
+"更新" = "Mettre à jour";
+
+"无记录" = "Pas d'enregistrement";
+
+"长按编辑或删除，侧滑也可删除" = "Appuyez longuement pour éditer ou supprimer, glissez pour supprimer";
+
+"标签列表" = "Liste des tags";
+
+"图标" = "Icône";
+
+"排序" = "Trier";
+
+"日记" = "Journal";
+
+"字数" = "Nombre de mots";
+
+"照片" = "Photo";
+
+"人物：" = "Personnage :";
+
+"标签：" = "Tag :";
+
+"暂无智能标签" = "Pas de tags intelligents pour le moment";
+
+"暂无标签" = "Pas de tags pour le moment";
+
+"按色筛图" = "Filtrer par couleur";
+
+"更多颜色" = "Plus de couleurs";
+
+"全部" = "Tout";
+
+"日记中还没有照片" = "Pas de photos dans le journal";
+
+"AI智能猜标签" = "AI devine les tags";
+
+"用户标签" = "Tags de l'utilisateur";
+
+"PRO尝鲜" = "Essayer PRO";
+
+"全部标签" = "Tous les tags";
+
+"最新照片" = "Dernières photos";
+
+"管理照片" = "Gérer les photos";
+
+"%lld列" = "%lld colonnes";
+
+"AI智能" = "Intelligence artificielle";
+
+"用户" = "Utilisateur";
+
+"暂无智能分类" = "Pas de catégorie intelligente pour le moment";
+
+"暂无颜色" = "Pas de couleur pour le moment";
+
+"压缩完成" = "Compression terminée";
+
+"已选择(%lld)" = "Sélectionné (%lld)";
+
+"压缩" = "Compresser";
+
+"确认压缩？" = "Confirmer la compression ?";
+
+"允许的文件最大为？" = "Quelle est la taille maximale du fichier autorisée ?";
+
+"请在输入你想压缩的最大文件大小，越大照片质量越好，默认为1.5MB." = "Veuillez entrer la taille maximale du fichier que vous souhaitez compresser. Plus la taille est grande, meilleure est la qualité de la photo. Par défaut, 1.5MB.";
+
+"管理照片" = "Gérer les photos";
+
+"选择" = "Choisir";
+
+"管理" = "Gérer";
+
+"篇" = "Articles";
+
+"按时间倒序" = "Trier par date décroissante";
+
+"按时间升序" = "Trier par date croissante";
+
+"按文件大小倒序" = "Trier par taille de fichier décroissante";
+
+"按文件大小升序" = "Trier par taille de fichier croissante";
+
+
+
+"高级版用户" = "Utilisateur avancé";
+
+"解锁高级版" = "Débloquer Pro";
+
+"含以下所有功能%@" = "Comprend toutes les fonctionnalités suivantes %@";
+
+"，5折限时优惠中" = "，Offre limitée à 50% de réduction";
+
+"免费试用" = "Essai gratuit";
+
+"应用图标" = "Icône de l'application";
+
+"融合" = "Fusion";
+
+"分块" = "Bloc";
+
+"主题颜色" = "Couleur du thème";
+
+"暗黑模式" = "Mode sombre";
+
+"默认" = "Par défaut";
+
+"暗黑%@" = "Sombre %@";
+
+"跟随系统%@" = "Système %@";
+
+"智能Tag" = "Tag intelligent";
+
+"根据内容与图片智能推荐Tag" = "Recommandation intelligente de tags en fonction du contenu et des images";
+
+"数据分析" = "Analyse de données";
+
+"习惯趋势更清晰" = "Tendances des habitudes plus claires";
+
+"智能写作" = "Écriture intelligente";
+
+"需接入第三方服务" = "Nécessite l'intégration d'un service tiers";
+
+"足迹回顾" = "Révision des empreintes";
+
+"地图足迹" = "Empreintes sur la carte";
+
+"相册压缩" = "Compression de l'album";
+
+"减少空间占用" = "Réduire l'espace occupé";
+
+"iCloud云备份" = "Sauvegarde iCloud";
+
+"开启面部或指纹识别" = "Activer la reconnaissance faciale ou par empreinte digitale";
+
+"开启防数据丢失" = "Activer la protection contre la perte de données";
+
+"隐私保护" = "Protection de la vie privée";
+
+"广告移除" = "Suppression des publicités";
+
+"安静无广告" = "Pas de publicités, plus de tranquillité";
+
+"日记簿名" = "Nom Du";
+
+"语言选择" = "Choix de la langue";
+
+"照片质量" = "Qualité des photos";
+
+"越好所耗空间越多" = "Plus la qualité est bonne, plus l'espace est consommé";
+
+"非常好" = "Très bon";
+
+"较好" = "Bon";
+
+"一般" = "Moyen";
+
+"较小" = "Petit";
+
+"相册管理" = "Gestion de l'album";
+
+"支持与联系" = "Support et contact";
+
+"订阅管理" = "Gestion des abonnements";
+
+"关注开发者" = "Suivre le développeur";
+
+"五星好评" = "Cinq étoiles";
+
+"分享给朋友" = "Partager avec des amis";
+
+"知了，资讯聚合" = "Cicada, agrégation d'informations";
+
+"开发者另一应用" = "Une autre application du développeur";
+
+"更多" = "Plus";
+
+"反馈" = "Retour";
+
+"发送邮件" = "Envoyer un email";
+
+"反馈邮箱" = "Boîte de réception des retours";
+
+"使用反馈" = "Retour d'utilisation";
+
+"<br/>为便于解决问题，请勿删除以上信息。</div><h4>请在下面输入需要反馈的内容：</h4>" = "<br/>Pour faciliter la résolution du problème, veuillez ne pas supprimer les informations ci-dessus.</div><h4>Veuillez entrer le contenu à commenter ci-dessous：</h4>";
+
+"用户群" = "Groupe d'utilisateurs";
+
+"隐私政策协议" = "Politique de confidentialité";
+
+"编辑器说明" = "Explication de l'éditeur";
+
+"MarkDown语法" = "Syntaxe MarkDown";
+
+"官方帮助" = "Aide officielle";
+
+"原价 %@" = "Prix original %@";
+
+"限时活动价 %@" = "Prix promotionnel limité %@";
+
+"已解锁高级版" = "Version avancée débloquée";
+
+"请稍等，处理中" = "Veuillez patienter, traitement en cours";
+
+"点击订阅" = "Cliquez pour vous abonner";
+
+"加载价格中..." = "Chargement des prix...";
+
+"已订阅" = "Abonné";
+
+"请稍等" = "Veuillez patienter";
+
+"高级功能：" = "Fonctionnalités avancées：";
+
+"免费功能：" = "Fonctionnalités gratuites：";
+
+"兑换优惠码" = "Échanger un code promotionnel";
+
+"主题颜色随意定制，个性随您。" = "Personnalisez la couleur du thème à votre guise.";
+
+"支持暗黑模式。" = "Supporte le mode sombre.";
+
+"个性应用图标可选。" = "Choix d'icônes d'application personnalisées.";
+
+"支持首页列表样式切换。" = "Supporte le changement de style de la liste de la page d'accueil.";
+
+"根据内容自动生成标签。" = "Génère automatiquement des tags en fonction du contenu.";
+
+"智能写作(需接入OpenAI)。" = "Écriture intelligente (nécessite l'intégration d'OpenAI).";
+
+"足迹回顾，去过哪里，一目了然。" = "Revoir vos traces, voir où vous êtes allé en un coup d'œil.";
+
+"数据分析，习惯趋势更清晰。" = "Analyse des données, tendances des habitudes plus claires.";
+
+"iCloud云备份，加密存储不丢失。" = "Sauvegarde iCloud, stockage crypté sans perte.";
+
+"开启面部或指纹识别，隐私安全。" = "Activez la reconnaissance faciale ou par empreinte digitale pour la sécurité de votre vie privée.";
+
+"支持快捷访问（捷径、Siri）。" = "Supporte l'accès rapide (raccourcis, Siri).";
+
+"压缩相册，减少手机空间。" = "Compresser l'album pour économiser de l'espace sur le téléphone.";
+
+"自定义字体。" = "Personnaliser la police.";
+
+"无广告，更清新。" = "Pas de publicités, plus frais.";
+
+"日记名称自定义。" = "Personnaliser le nom du journal.";
+
+"无限量日记。" = "Journal sans limite.";
+
+"时间回顾功能。" = "Fonction de révision du temps.";
+
+"标签云，以漂亮云图形式呈现。" = "Nuage de tags, présenté sous forme de beau nuage.";
+
+"按色筛图，可通过颜色筛选图片。" = "Filtrer les images par couleur.";
+
+"照片质量控制，平衡质量与大小。" = "Contrôle de la qualité des photos, équilibrer la qualité et la taille.";
+
+"语音录制。" = "Enregistrement vocal.";
+
+"恢复" = "Restaurer";
+
+"自定义拾色" = "Personnaliser la sélection de couleurs";
+
+"自定义拾色%@" = "Personnaliser la sélection de couleurs %@";
+
+"下一步" = "Suivant";
+
+"极简浅绿" = "Vert clair minimaliste";
+
+"海蓝" = "Bleu mer";
+
+"大橘" = "Orange vif";
+
+"粉红" = "Rose";
+
+"草绿" = "Vert herbe";
+
+"帝紫" = "Violet impérial";
+
+"土黄" = "Jaune terre";
+
+"泼墨" = "Éclaboussure d'encre";
+
+"殇灰" = "Gris triste";
+
+"靛蓝" = "Bleu indigo";
+
+"靛蓝+" = "Bleu indigo+";
+
+"帝紫+" = "Violet impérial+";
+
+"草绿+" = "Vert herbe+";
+
+"土黄+" = "Jaune terre+";
+
+"请先配置OpenAI服务" = "Veuillez d'abord configurer le service OpenAI";
+
+"选用" = "Choisir";
+
+"重新写" = "Réécrire";
+
+"重新" = "Réinitialiser";
+
+"重写" = "Réécrire";
+
+"继续" = "Continuer";
+
+"续写" = "Continuer à écrire";
+
+"已复制" = "Copié";
+
+"思考中..." = "Réflexion en cours...";
+
+"AI助手" = "Assistant AI";
+
+"我到过" = "J'ai été là";
+
+"录语音" = "Enregistrement vocal";
+
+"起标题"= "Créer un titre";
+
+"做计划" = "Faire un plan";
+
+"写诗" = "Écrire un poème";
+
+"配图" = "Illustration";
+
+"纠错" = "Correction d'erreur";
+
+"缩写" = "Abréviation";
+
+"扩写" = "Élargissement";
+
+"翻译" = "Traduction";
+
+"分类能很好地组织内容，选择一个分类吧" = "La catégorisation peut bien organiser le contenu, choisissez une catégorie";
+
+"还没有标题，用AI给你生成一个" = "Il n'y a pas encore de titre, laissez l'IA en générer un pour vous";
+
+"根据下面的内容生成标题，并且不要超过15个字：" = "Générez un titre basé sur le contenu ci-dessous, et ne dépassez pas 15 caractères :";
+
+"告诉AI帮您写点什么..." = "Dites à l'IA ce que vous voulez écrire...";
+
+"请问是关于什么的标题？" = "Quel est le sujet du titre?";
+
+"请帮我起一个关于" = "Aidez-moi à créer un titre sur";
+
+"的标题，标题不超过15个字" = "le titre, le titre ne dépasse pas 15 caractères";
+
+"根据内容生成标题不要超过15个字" = "Générer un titre basé sur le contenu ne dépassant pas 15 caractères";
+
+"请输入关于什么的计划，旅行、工作？" = "Veuillez entrer le plan, voyage, travail?";
+
+"请简述诗的主题与风格" = "Veuillez décrire brièvement le thème et le style du poème";
+
+"请写一首诗，关于" = "Veuillez écrire un poème sur";
+
+"请简述要生成的内容、风格、字数等" = "Veuillez décrire brièvement le contenu, le style, le nombre de mots, etc. à générer";
+
+"请描述你想要的图片内容" = "Veuillez décrire le contenu de l'image que vous souhaitez";
+
+"请问缩写到多少字？" = "Combien de mots pour l'abréviation?";
+
+"请问扩写到多少字？" = "Combien de mots pour l'élargissement?";
+
+"请问翻译成什么语言" = "Dans quelle langue faut-il traduire?";
+
+"点击解锁" = "Cliquez pour déverrouiller";
+
+"支持MarkDown语法，点击键盘上方的?了解" = "Supporte la syntaxe MarkDown, cliquez sur le ? en haut du clavier pour comprendre";
+
+"更多操作" = "Plus d'opérations";
+
+"请选择" = "Veuillez choisir";
+
+"SHARE_CONTENT" = "Note simple, journal privé, une application ultra-simplifiée qui supporte le journal, la comptabilité, l'enregistrement d'adresses, les tâches à faire, et intègre la fonction de tag automatique AI.";
+
+"思源宋体" = "Source Han Serif";
+
+"演示佛系" = "Démonstration du système bouddhiste";
+
+"演示悠然小楷" = "Démonstration de la petite écriture cursive You Ran";
+
+"杨任东竹石体" = "Yang Ren Dong Bamboo Stone Body";
+
+"清松手写体" = "Qing Song Handwriting";
+
+"胡晓波骚包体" = "Hu Xiaobo Saobao Body";
+
+"字号大小（默认17）" = "Taille de la police (par défaut 17)";
+
+"当前%@" = "Actuel %@";
+
+"推荐字体" = "Police recommandée";
+
+"系统默认字体" = "Police par défaut du système";
+
+"自定义字体" = "Police personnalisée";
+
+"FONT.ICLOUD_SYNC_HINT" = "Une fois iCloud activé, vous pouvez télécharger vos fichiers de polices dans le répertoire Noteit/fonts dans l'application Fichiers.";
+
+"字体文件目录创建失败，请关闭重试" = "Échec de la création du répertoire de fichiers de police, veuillez fermer et réessayer";
+
+"开始下载字体" = "Commencer à télécharger la police";
+
+"字体" = "Police";
+
+"加载成功" = "Chargement réussi";
+
+"已经转为日记" = "Déjà converti en journal";
+
+"转为日记" = "Convertir en journal";
+
+"分享会话" = "Partager la session";
+
+"重新提问" = "Reposer la question";
+
+"复制问题" = "Copier la question";
+
+"复制答案" = "Copier la réponse";
+
+"复制问题和答案" = "Copier la question et la réponse";
+
+"随便问.." = "Demandez n'importe quoi..";
+
+"已经选择了" = "Déjà choisi";
+
+"条了，开始分享吧" = "articles, commencer à partager";
+
+"请在下面输入你的问题" = "Veuillez entrer votre question ci-dessous";
+
+"有%lld个会话，请选择部分进行分享吧" = "Il y a %lld sessions, veuillez en choisir quelques-unes pour partager!";
+
+"ALTER.NOT_SUPPORT_LIVE_TEXT" = "Remarque : Votre modèle de téléphone ne supporte pas le texte en direct";
+
+"搜索图标" = "Icône de recherche";
+
+"请授权访问你的麦克风" = "Veuillez autoriser l'accès à votre microphone";
+
+"录音需要用到麦克风，请打开启麦克风权限。" = "L'enregistrement nécessite l'utilisation d'un microphone, veuillez activer l'autorisation du microphone.";
+
+"去开启" = "Aller ouvrir";
+
+"没有生物指纹识别功能" = "Pas de fonction de reconnaissance d'empreintes digitales biologiques";
+
+"高德导航" = "Navigation Gaode";
+
+"百度导航" = "Navigation Baidu";
+
+"Google导航" = "Navigation Google";
+
+"苹果导航" = "Navigation Apple";
+
+"请确认安装了苹果导航" = "Veuillez confirmer que vous avez installé la navigation Apple";
+
+"Markdown基础使用语法" = "Syntaxe de base de l'utilisation de Markdown";
+"EDITOR.MARKDOWN_READ_ME" = "## Titre\n\nVous pouvez ajouter un ou plusieurs symboles `#` devant votre texte de titre pour créer un titre. Le nombre de `#` que vous utilisez déterminera la taille du titre.\n\n```\n# Ceci est H1\n## Ceci est H2\n### Ceci est H3\n#### Ceci est H4\n##### Ceci est H5\n###### Ceci est H6\n```\n\n## Paragraphes et sauts de ligne\n\nUn paragraphe est une ou plusieurs lignes de texte consécutives, séparées par une ou plusieurs lignes vides.\n\nPour un saut de ligne, vous pouvez entrer deux espaces ou plus à la fin d'une ligne, puis appuyer sur Entrée.\n\n## Emphase\n\nVous pouvez rendre le texte en italique en l'entourant avec `*` ou `_`, comme :\n\n```\n*Ceci est du texte en italique*\n_Ceci est aussi du texte en italique_\n```\n\nPour mettre le texte en gras, utilisez simplement `**` ou `__`, comme :\n\n```\n**Ceci est du texte en gras**\n__Ceci est aussi du texte en gras__\n```\n\n## Listes\n\n- Vous pouvez créer une liste non ordonnée en ajoutant `-`, `+` ou `*` devant une ou plusieurs lignes de texte.\n\n```\n* Article 1\n* Article 2\n* Article 3\n```\n\n- Pour ordonner votre liste, ajoutez simplement un numéro devant chaque ligne.\n\n```\n1. Article 1\n2. Article 2\n3. Article 3\n```\n\n## Todo List\n\nMarkdown nous permet de créer des listes de tâches à cocher dans nos documents.\n\nUtilisez le symbole `- [ ] ` pour créer une case de tâche non cochée, comme :\n\n```\n\n- [ ] Ceci est une tâche non accomplie\n- [ ] Ceci est une autre tâche non accomplie\n\n```\n\nUtilisez le symbole `- [x] ` pour créer une case de tâche cochée, comme :\n\n```\n\n- [x] Ceci est une tâche accomplie\n- [x] Ceci est une autre tâche accomplie\n\n```\n\n## Liens\n\nVous pouvez créer un lien en ligne en ajoutant des crochets `[ ]` autour du texte du lien, puis des parenthèses `( )` autour de l'URL.\n\n```\n[Visitez GitHub](www.github.com)\n```\n\n## Images\n\nVous pouvez créer un lien vers une image de la même manière que vous créez un lien normal, mais ajoutez un point d'exclamation `!` devant.\n\n```\n![Logo GitHub](/images/logo.png)\nFormat: ![Texte alternatif](url)\n```\n\n## Non supporté\n\nLes tableaux ne sont pas actuellement supportés.";
+
+
+// -------------------------
+"手动输入" = "Entrée manuelle";
+
+"选择服务商" = "Choisir un fournisseur";
+
+"设置Azure" = "Configurer Azure";
+
+"设置OpenAI" = "Configurer OpenAI";
+
+"AI.AZURE_KEY_HINT" = "Il est nécessaire de déployer sur Azure et d'obtenir une clé [aller chercher](https://portal.azure.com/#view/HubsExtension/RecentResources.ReactView)";
+
+"AI.OPENAI_KEY_HINT" = "Obtenez la clé API OpenAI et collez-la ci-dessous, [cliquez pour obtenir](https://platform.openai.com/account/api-keys)";
+
+"AI.CUSTOM_DOMAIN" = "Veuillez personnaliser le domaine lorsque vous ne pouvez pas utiliser directement l'API officielle";
+
+"AI.USE_MODEL_HINT" = "Lors de l'utilisation du service Azure, le modèle ci-dessous doit correspondre au modèle que vous avez déployé";
+
+"AI.OPENAI_SYSTEM_PROMPT" = "Vous êtes un assistant intelligent utile et professionnel, veuillez répondre autant que possible en phrases complètes.";
+
+"选择模型" = "Choisir un modèle";
+
+"如果上面没有你需要的模型请手动输入" = "Si le modèle dont vous avez besoin n'est pas ci-dessus, veuillez le saisir manuellement";
+
+"手动输入模型名字" = "Entrer manuellement le nom du modèle";
+
+"AI.ADVANCE_HINT" = "Les configurations ci-dessous sont recommandées pour les utilisateurs expérimentés, généralement les valeurs par défaut suffisent";
+
+"AI.ADVANCE_SHOW_STYLE_HINT" = "L'expérience de chat est comme parler à une personne, le mode Q&A ressemble plus à une interface de recherche Q&A avec un meilleur usage de l'espace.";
+
+"呈现样式" = "Style de présentation";
+
+"内容呈现样式" = "Style de présentation du contenu";
+
+"会话模式" = "Mode de conversation";
+
+"聊天式" = "Style de chat";
+
+"问答式" = "Style Q&A";
+
+"开启会话模式后将使用最近30分钟内的%@次对话以增强上下文的连续性，将消耗更多OpenAI的Tokens，默认开启。" = "Une fois le mode de conversation activé, les %@ conversations les plus récentes des 30 dernières minutes seront utilisées pour renforcer la continuité du contexte, ce qui consommera plus de tokens OpenAI. Activé par défaut.";
+
+"开启会话模式" = "Activer le mode de conversation";
+
+"AI.ADVANCE_CONTEXT_HINT" = "Veuillez choisir le nombre de messages à inclure, plus il y a de contexte, plus la conversation est fluide, mais plus de tokens sont consommés. Trop de messages peuvent entraîner l'échec de la demande. Par défaut, 5.";
+
+"上下文包含消息数" = "Nombre de messages inclus dans le contexte";
+
+"AI.NETWORK_HINT" = "**Attention**\n- Le service OpenAI n'est pas accessible dans certains pays, veuillez ajouter le domaine openai.com à votre VPN pour le proxy.\n- L'utilisation des services ci-dessus déduira le nombre correspondant de tokens de votre compte.";
+
+"OpenAI Key 不能为空！" = "La clé OpenAI ne peut pas être vide !";
+
+"模型名字不能为空！" = "Le nom du modèle ne peut pas être vide !";
+
+"HELP.PRIVACY" = "**Noteit** est une application de notes hors ligne qui **ne** téléchargera pas vos contenus ou images sur aucun serveur, vous pouvez l'utiliser en toute confiance.\n\nNoteit attache une grande importance à votre vie privée, aucune donnée identifiable ne sera collectée, y compris par les annonceurs, etc.\n\nVeuillez noter les informations suivantes :\n\n- Activer iCloud synchronisera vos données **cryptées** avec le service cloud d'Apple. Pour la sécurité et la récupération de vos données, nous vous recommandons de l'activer.\n- La fonction de statistiques utilise le SDK Umeng pour compter le nombre de fois que l'application est ouverte, etc. Vous pouvez consulter la politique de confidentialité d'Umeng pour plus de détails.\n\n#### Utilisateurs gratuits\n\n- Les utilisateurs gratuits verront des publicités, mais les annonceurs ne pourront pas collecter vos informations identifiables.";
+
+"已保存到相册" = "Enregistré dans l'album";
+
+"保存失败，请确保开启了相册权限" = "Échec de l'enregistrement, assurez-vous que l'autorisation de l'album est activée";
+
+
+"MLTAG.动物园" = "Zoo";
+"MLTAG.雷雨" = "Orage";
+"MLTAG.孩子" = "Children";
+"MLTAG.马" = "Cheval";
+"MLTAG.运动会" = "Sports";
+"MLTAG.喝咖啡" = "Café";
+"MLTAG.佛寺" = "Bouddhiste";
+"MLTAG.猪" = "Cochon";
+"MLTAG.咖啡" = "Café";
+"MLTAG.钓鱼" = "Pêche";
+"MLTAG.鹅" = "Oie";
+"MLTAG.露营" = "Camping";
+"MLTAG.爬山" = "Escalade";
+"MLTAG.游泳" = "Natation";
+"MLTAG.自拍" = "Selfie";
+"MLTAG.打麻将" = "Mahjong";
+"MLTAG.棒球" = "Baseball";
+"MLTAG.新疆民族" = "Xinjiang";
+"MLTAG.西餐" = "Nourriture occidentale";
+"MLTAG.汽车" = "Voiture";
+"MLTAG.医生" = "Docteur";
+"MLTAG.晚霞" = "Lueur du soir";
+"MLTAG.兵马俑" = "Armée de Terre Cuite";
+"MLTAG.海洋馆" = "Aquarium";
+"MLTAG.机车" = "Locomotive";
+"MLTAG.极限运动" = "Sports extrêmes";
+"MLTAG.春天" = "Printemps";
+"MLTAG.书法" = "Calligraphie";
+"MLTAG.逛街" = "Achats";
+"MLTAG.小巷子" = "Ruelle";
+"MLTAG.电影" = "Film";
+"MLTAG.城堡" = "Château";
+"MLTAG.聚会" = "Rassembler";
+"MLTAG.情侣" = "Couple";
+"MLTAG.油画" = "Peinture à l'huile";
+"MLTAG.核酸检测" = "COVID";
+"MLTAG.渔民" = "Pêcheur";
+"MLTAG.球赛" = "Jeu de balle";
+"MLTAG.博物馆" = "Musée";
+"MLTAG.海鸥" = "Mouette";
+"MLTAG.鱼" = "Poisson";
+"MLTAG.烟花" = "Feux d'artifice";
+"MLTAG.游乐场" = "Aire de jeux";
+"MLTAG.编程" = "Programmation";
+"MLTAG.堵车" = "Circulation";
+"MLTAG.航行" = "Voile";
+"MLTAG.约会" = "Date";
+"MLTAG.幼儿园" = "Maternelle";
+"MLTAG.鸭子" = "Duck";
+"MLTAG.乌云" = "Nuage sombre";
+"MLTAG.狗狗" = "狗狗";
+"MLTAG.账单" = "Facture";
+"MLTAG.穿搭" = "Se déguiser";
+"MLTAG.长城" = "Grande Muraille";
+"MLTAG.玩具" = "Jouet";
+"MLTAG.看电影" = "Film";
+"MLTAG.老照片" = "Vieille Photo";
+"MLTAG.动物" = "动物";
+"MLTAG.雪景" = "Neige";
+"MLTAG.滑冰" = "Patinage";
+"MLTAG.手机" = "Mobile";
+"MLTAG.拳击" = "Boxe";
+"MLTAG.稻田" = "Champ de riz";
+"MLTAG.火锅" = "Hotpot";
+"MLTAG.美食" = "Nourriture gastronomique";
+"MLTAG.商场" = "Centre commercial";
+"MLTAG.教堂" = "Église";
+"MLTAG.乡村" = "Village";
+"MLTAG.朋友聚会" = "Amis";
+"MLTAG.动漫" = "Anime";
+"MLTAG.烧烤" = "Barbecue";
+"MLTAG.包包" = "Sac";
+"MLTAG.鲜花" = "Fleurs";
+"MLTAG.下雨" = "Il pleut";
+"MLTAG.大学校园" = "Université";
+"MLTAG.暴雨" = "Pluie intense";
+"MLTAG.瑜伽" = "Yoga";
+"MLTAG.多肉" = "Succulent";
+"MLTAG.过年" = "Nouvel An Chinois";
+"MLTAG.人群" = "Foule";
+"MLTAG.消防" = "Lutte contre l'incendie";
+"MLTAG.颐和园" = "Palais d'été";
+"MLTAG.AV" = "AV";
+"MLTAG.打乒乓" = "Ping Pong";
+"MLTAG.川剧" = "Opéra du Sichuan";
+"MLTAG.环卫工人" = "Agent d'assainissement";
+"MLTAG.猫咪" = "Chat";
+"MLTAG.羽毛球" = "Badminton";
+"MLTAG.路灯" = "Lumière de rue";
+"MLTAG.无人机" = "Drone";
+"MLTAG.游戏" = "Jeu";
+"MLTAG.九寨沟" = "Jiuzhaigou";
+"MLTAG.旅行" = "Voyage";
+"MLTAG.故宫" = "Cité Interdite";
+"MLTAG.熊猫" = "Panda";
+"MLTAG.抽烟" = "Fumer";
+"MLTAG.音乐会" = "Concert";
+"MLTAG.大学" = "Université";
+"MLTAG.踢足球" = "Football";
+"MLTAG.喝酒" = "Boire de l'alcool";
+"MLTAG.骑行" = "Cyclisme";
+"MLTAG.歌剧" = "Opéra";
+"MLTAG.话剧" = "Drame";
+"MLTAG.天鹅" = "Cygne";
+"MLTAG.航拍" = "Photographie aérienne";
+"MLTAG.军训" = "Entraînement militaire";
+"MLTAG.绘画" = "Dessin";
+"MLTAG.警察" = "Police";
+"MLTAG.晚会" = "Fête";
+"MLTAG.护士" = "Infirmière";
+"MLTAG.书店" = "Librairie";
+"MLTAG.街舞" = "Danse de rue";
+"MLTAG.日出" = "Lever du soleil";
+"MLTAG.夜景" = "Scène de nuit";
+"MLTAG.风景" = "Paysage";
+"MLTAG.结婚" = "Marié";
+"MLTAG.军事" = "Militaire";
+"MLTAG.打篮球" = "Basket-ball";
+"MLTAG.运动" = "Exercice";
+"MLTAG.车展" = "Salon de l'automobile";
+"MLTAG.冬天" = "Hiver";
+"MLTAG.帅哥" = "Beau";
+"MLTAG.牛" = "Vache";
+"MLTAG.枫叶" = "Feuille d'érable";
+"MLTAG.晴空万里" = "Ciel clair";
+"MLTAG.客机" = "Airliner";
+"MLTAG.简笔画" = "Esquisse";
+"MLTAG.交警" = "Police de la circulation";
+"MLTAG.票据" = "Facture";
+"MLTAG.夏天" = "Été";
+"MLTAG.航空母舰" = "Porte-avions";
+"MLTAG.恐龙" = "Dinosaure";
+"MLTAG.篮球" = "Basket-ball";
+"MLTAG.冲浪" = "Surf";
+"MLTAG.直播" = "Vivre";
+"MLTAG.鸡" = "Poulet";
+"MLTAG.音乐" = "Musique";
+"MLTAG.攀岩" = "Escalade";
+"MLTAG.猫头鹰" = "Chouette";
+"MLTAG.黄龙" = "Dragon Jaune";
+"MLTAG.cosplay" = "Cosplay";
+"MLTAG.相机" = "Appareil photo";
+"MLTAG.滑雪" = "Le ski";
+"MLTAG.老师" = "Enseignant";
+"MLTAG.京剧" = "Opéra de Pékin";
+"MLTAG.钢琴" = "Piano";
+"MLTAG.化妆品" = "Cosmétiques";
+"MLTAG.年会" = "Réunion annuelle";
+"MLTAG.上课" = "Assister à la classe";
+"MLTAG.古镇" = "Ville ancienne";
+"MLTAG.会议" = "Réunion";
+"MLTAG.板画" = "Dessin du panneau";
+"MLTAG.油菜花" = "Fleur de colza";
+"MLTAG.海边" = "Bord de mer";
+"MLTAG.生病" = "Malade";
+"MLTAG.聚餐" = "Rassemblement de repas";
+"MLTAG.羊" = "Mouton";
+"MLTAG.滑板" = "Planche à roulettes";
+"MLTAG.看病" = "Docteur";
+"MLTAG.西藏" = "Tibet";
+"MLTAG.工作" = "Travail";
+"MLTAG.老人" = "Vieux homme";
+"MLTAG.过生日" = "Anniversaire";
+"MLTAG.开会" = "Assister à une réunion";
+"MLTAG.黄梅戏" = "Opéra Huangmei";
+"MLTAG.插图" = "Illustration";
+"MLTAG.秋天" = "Automne";
+"MLTAG.藏族" = "Tibétain";
+"MLTAG.跳舞" = "Danse";
+"MLTAG.天安门" = "Tiananmen";
+"MLTAG.AV女星" = "ÉtoileAV";
+"MLTAG.麦田" = "Champ de blé";
+"MLTAG.近击的巨人" = "Géant";
+"MLTAG.战斗机" = "Jet de combat";
+"MLTAG.装修" = "Rénovation";
+"MLTAG.书籍" = "Livre";
+"MLTAG.小吃" = "Encas";
+"MLTAG.健身" = "Forme physique";
+"MLTAG.兔子" = "Lapin";
+"MLTAG.窑洞" = "Habitation de grotte";
+"MLTAG.射击" = "Tir";
+"MLTAG.春游" = "Sortie de printemps";
+"MLTAG.银杏" = "Ginkgo";
+"MLTAG.跑步" = "Running";
+"MLTAG.飞鸟" = "Oiseau";
+"MLTAG.相声" = "Cross talk";
+"MLTAG.苹果" = "Pomme";
+"MLTAG.三星堆" = "Sanxingdui";
+"MLTAG.水果" = "Fruit";
+"MLTAG.婚礼" = "Mariage";
+"MLTAG.美女" = "Belle femme";
+"MLTAG.祈祷" = "Prier";
+
+"本周" = "Semaine";
+"本月" = "Mois";
+"本年" = "Année";
+"AN.分类" = "CATEGORIE";
+"AN.字数" = "MOTS";
+"AN.照片" = "PHOTOS";
+"AN.标签" = "TAGS";
+"AN.地址" = "EMPLACEMENTS";
+"AI聊天" = "IA PARLE";
+"AN.朋友" = "Amis";
+"天数" = "JOURS";
+"习惯" = "HOBITS";
+"记录最频繁" = "Semaine favorite";
+"最爱此时记录" = "Temps préféré";
+"记录最多的分类" = "Catégorie supérieure";
+"使用最多的标签" = "Tags de tête";
+"最新" = "Dernier";
+"字数最多" = "Mots maximum";
+"照片最多" = "Photos Maximales";
+"参与人最多" = "Nombre Maximum d'Amis";
+
+"AI_CONVERSATION.SMART_WRITER" = "Écrivain intelligent";
+"AI_CONVERSATION.SMART_WRITER.PROMPT" = "Vous êtes un assistant d'écriture polyvalent, avec un style d'écriture rigoureux et des données fiables.";
+
+"AI_CONVERSATION.JOKER" = "Raconter des blagues";
+"AI_CONVERSATION.JOKER.PROMPT" = "Vous avez le sens de l'humour, aimez raconter des blagues froides, et êtes spirituel et drôle.";
+
+"AI_CONVERSATION.TRANSLATE" = "Traduire";
+"AI_CONVERSATION.TRANSLATE.PROMPT" = "Vous êtes un expert en traduction multilingue, connaissant les langues principales du monde, et fournissant des traductions professionnelles selon les instructions.";
+
+"AI_CONVERSATION.IDEA" = "Idées";
+"AI_CONVERSATION.IDEA.PROMPT" = "Vous êtes une intelligence artificielle avec de nombreuses bonnes idées. Sur la base de mon entrée, vous pouvez développer ces idées de manière imaginative et créative.";
+
+"AI_CONVERSATION.DOCTOR" = "Conseils médicaux";
+"AI_CONVERSATION.DOCTOR.PROMPT" = "Vous êtes un médecin avec des connaissances médicales professionnelles. Fournissez des réponses professionnelles et fiables à mes consultations, et essayez d'utiliser les connaissances originales sans expansion.";
+
+"AI_CONVERSATION.PROGRAMER" = "Programmation";
+"AI_CONVERSATION.PROGRAMER.PROMPT" = "Vous êtes un programmeur avec des compétences en programmation et en architecture, ainsi qu'une excellente expérience de débogage. Vous maîtrisez les technologies de développement front-end et back-end.";
+
+"AI_CONVERSATION.PLAN_ASSIST" = "Assistant de planification";
+"AI_CONVERSATION.PLAN_ASSIST.PROMPT" = "Vous êtes un assistant personnel spécialisé dans la planification. Aidez-moi à faire des plans et fournissez des opérations détaillées pour mettre en œuvre le plan.";
