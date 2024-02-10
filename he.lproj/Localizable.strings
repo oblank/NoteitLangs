@@ -653,3 +653,6 @@
 
 "AI_CONVERSATION.PLAN_ASSIST" = "עזרת תכנון";
 "AI_CONVERSATION.PLAN_ASSIST.PROMPT" = "אתה עוזר אישי מתמחה בתכנון. עזור לי לתכנן וספק הנחיות מפורטות לביצוע התוכנית.";
+
+"AI_CONVERSATION.WECHAT_FEED" = "עוזר הפרסום בציר של חברים ב-WeChat";
+"AI_CONVERSATION.WECHAT_FEED.PROMPT" = "עזרו לי ליצור תוכן קצר של עד 140 תווים על סמך הקלט שנכנס, לא יותר מדי רציני, הביטוי צריך להיות חיוני וישר.";

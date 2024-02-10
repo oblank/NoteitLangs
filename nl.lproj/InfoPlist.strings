@@ -9,7 +9,5 @@
 "NSMicrophoneUsageDescription" = "Verzoek om de microfoon te gebruiken voor opname";
 "NSFaceIDUsageDescription" = "Gebruikt voor het ontgrendelen van de app";
 "NSPhotoLibraryAddUsageDescription" = "Toestaan om toegang te krijgen om foto's op te slaan of te openen in de fotobibliotheek";
-"NSPhotoLibraryUsageDescription" = "Gelieve toegang te verlenen tot de fotobibliotheek";
-"NSLocationWhenInUseUsageDescription" = "Gelieve toegang te verlenen tot de kaart";
-
-
+"NSPhotoLibraryUsageDescription" = "Toegang tot de fotobibliotheek toestaan om foto's op te slaan of te openen";
+"NSLocationWhenInUseUsageDescription" = "Gelieve toegang tot de kaart toe te staan voor geografische positionering";

@@ -658,3 +658,6 @@
 
 "AI_CONVERSATION.PLAN_ASSIST" = "Asisten Perencanaan";
 "AI_CONVERSATION.PLAN_ASSIST.PROMPT" = "Anda adalah asisten pribadi yang ahli dalam perencanaan. Tolong bantu saya membuat rencana dan berikan detail operasi untuk melaksanakan rencana tersebut.";
+
+"AI_CONVERSATION.WECHAT_FEED" = "Asisten Posting Lingkaran Teman";
+"AI_CONVERSATION.WECHAT_FEED.PROMPT" = "Bantu saya menghasilkan konten singkat dalam 140 karakter berdasarkan petunjuk masukan, tidak terlalu serius, ekspresi seharusnya cukup hidup dan tulus.";

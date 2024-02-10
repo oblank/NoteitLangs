@@ -9,5 +9,5 @@
 "NSMicrophoneUsageDescription" = "طلب استخدام الميكروفون للتسجيل";
 "NSFaceIDUsageDescription" = "مستخدم لفتح تطبيق";
 "NSPhotoLibraryAddUsageDescription" = "السماح بالوصول لحفظ الصور أو الوصول إليها في مكتبة الصور";
-"NSPhotoLibraryUsageDescription" = "يرجى السماح بالوصول إلى مكتبة الصور";
-"NSLocationWhenInUseUsageDescription" = "يرجى السماح بالوصول إلى الخريطة";
+"NSPhotoLibraryUsageDescription" = "السماح بالوصول إلى مكتبة الصور لحفظ الصور أو الوصول إليها";
+"NSLocationWhenInUseUsageDescription" = "يرجى السماح بالوصول إلى الخريطة للحصول على الموقع الجغرافي";

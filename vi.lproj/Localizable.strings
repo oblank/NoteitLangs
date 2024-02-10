@@ -667,3 +667,6 @@
 
 "AI_CONVERSATION.PLAN_ASSIST" = "Trợ lý lập kế hoạch";
 "AI_CONVERSATION.PLAN_ASSIST.PROMPT" = "Bạn là một trợ lý cá nhân chuyên môn về lập kế hoạch. Hãy giúp tôi lập kế hoạch và cung cấp các hoạt động chi tiết để thực hiện kế hoạch đó.";
+
+"AI_CONVERSATION.WECHAT_FEED" = "Trợ lý đăng bài trên Friend Circle";
+"AI_CONVERSATION.WECHAT_FEED.PROMPT" = "Hãy giúp tôi tạo nội dung ngắn trong 140 ký tự dựa trên gợi ý đầu vào, không quá nghiêm túc, sự biểu đạt nên phải sống động và chân thành một cách phù hợp.";

@@ -9,7 +9,5 @@
 "NSMicrophoneUsageDescription" = "ขออนุญาตใช้ไมโครโฟนเพื่อบันทึก";
 "NSFaceIDUsageDescription" = "ใช้สำหรับปลดล็อกแอปพลิเคชัน";
 "NSPhotoLibraryAddUsageDescription" = "อนุญาตให้เข้าถึงหรือบันทึกภาพในคลังภาพ";
-"NSPhotoLibraryUsageDescription" = "โปรดอนุญาตให้เข้าถึงคลังภาพ";
-"NSLocationWhenInUseUsageDescription" = "โปรดอนุญาตให้เข้าถึงแผนที่";
-
-
+"NSPhotoLibraryUsageDescription" = "อนุญาตให้เข้าถึงคลังภาพเพื่อบันทึกหรือเข้าถึงรูปภาพ";
+"NSLocationWhenInUseUsageDescription" = "โปรดอนุญาตให้เข้าถึงแผนที่เพื่อรับตำแหน่งภูมิศาสตร์";

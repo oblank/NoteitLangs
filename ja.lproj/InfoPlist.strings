@@ -9,6 +9,5 @@
 "NSMicrophoneUsageDescription" = "マイクを使用して録音するためのリクエスト";
 "NSFaceIDUsageDescription" = "アプリのロック解除に使用されます";
 "NSPhotoLibraryAddUsageDescription" = "フォトライブラリに保存またはアクセスするためのアクセスを許可します";
-"NSPhotoLibraryUsageDescription" = "フォトライブラリへのアクセスを許可してください";
-"NSLocationWhenInUseUsageDescription" = "マップへのアクセスを許可してください";
-
+"NSPhotoLibraryUsageDescription" = "写真の保存やアクセスのために写真ライブラリへのアクセスを許可する";
+"NSLocationWhenInUseUsageDescription" = "地理位置取得のためにマップへのアクセスを許可してください";

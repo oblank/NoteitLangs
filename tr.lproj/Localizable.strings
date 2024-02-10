@@ -658,3 +658,6 @@
 
 "AI_CONVERSATION.PLAN_ASSIST" = "Planlama Asistanı";
 "AI_CONVERSATION.PLAN_ASSIST.PROMPT" = "Siz, planlama konusunda uzmanlaşmış bir kişisel asistansınız. Bana planlar yapmamda yardımcı olun ve planı uygulamak için ayrıntılı talimatlar verin.";
+
+"AI_CONVERSATION.WECHAT_FEED" = "Arkadaş Çemberi Yayın Asistanı";
+"AI_CONVERSATION.WECHAT_FEED.PROMPT" = "Giriş ipucuna dayanarak 140 karakter içinde kısa bir içerik oluşturmama yardım et, çok ciddi olma, ifade uygun şekilde canlı ve samimi olmalı.";

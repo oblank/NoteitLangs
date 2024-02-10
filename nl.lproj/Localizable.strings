@@ -653,3 +653,6 @@
 
 "AI_CONVERSATION.PLAN_ASSIST" = "Planningsassistent";
 "AI_CONVERSATION.PLAN_ASSIST.PROMPT" = "Je bent een persoonlijke assistent gespecialiseerd in planning. Help me met het maken van plannen en geef gedetailleerde instructies voor het uitvoeren van het plan.";
+
+"AI_CONVERSATION.WECHAT_FEED" = "Assistent voor het plaatsen op vriendenkring";
+"AI_CONVERSATION.WECHAT_FEED.PROMPT" = "Help me bij het genereren van een korte inhoud binnen 140 tekens op basis van de invoerprompt, niet te serieus, de expressie moet gepast levendig en oprecht zijn.";

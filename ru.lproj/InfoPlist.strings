@@ -9,7 +9,5 @@
 "NSMicrophoneUsageDescription" = "Запрос на использование микрофона для записи";
 "NSFaceIDUsageDescription" = "Используется для разблокировки приложения";
 "NSPhotoLibraryAddUsageDescription" = "Разрешить доступ для сохранения или доступа к фотографиям в фотобиблиотеке";
-"NSPhotoLibraryUsageDescription" = "Пожалуйста, разрешите доступ к фотобиблиотеке";
-"NSLocationWhenInUseUsageDescription" = "Пожалуйста, разрешите доступ к карте";
-
-
+"NSPhotoLibraryUsageDescription" = "Разрешить доступ к фотопамятнику для сохранения или доступа к фотографиям";
+"NSLocationWhenInUseUsageDescription" = "Пожалуйста, разрешите доступ к карте для геолокации";

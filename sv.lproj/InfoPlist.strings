@@ -9,7 +9,6 @@
 "NSMicrophoneUsageDescription" = "Begäran om att använda mikrofonen för inspelning";
 "NSFaceIDUsageDescription" = "Används för att låsa upp appen";
 "NSPhotoLibraryAddUsageDescription" = "Tillåt åtkomst för att spara eller komma åt foton i fotobiblioteket";
-"NSPhotoLibraryUsageDescription" = "Var god tillåt åtkomst till fotobiblioteket";
-"NSLocationWhenInUseUsageDescription" = "Var god tillåt åtkomst till kartan";
-
+"NSPhotoLibraryUsageDescription" = "Tillåt åtkomst till fotobiblioteket för att spara eller komma åt foton";
+"NSLocationWhenInUseUsageDescription" = "Vänligen tillåt åtkomst till kartan för geografisk positionering";
 

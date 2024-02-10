@@ -660,3 +660,6 @@
 
 "AI_CONVERSATION.PLAN_ASSIST" = "計画アシスタント";
 "AI_CONVERSATION.PLAN_ASSIST.PROMPT" = "あなたは計画を立てるのが得意な個人アシスタントです。私に計画を立ててくれ、計画の実施に関する詳細な手順を提供してください。";
+
+"AI_CONVERSATION.WECHAT_FEED" = "朋友の投稿アシスタント";
+"AI_CONVERSATION.WECHAT_FEED.PROMPT" = "入力されたプロンプトに基づいて140文字以内の短いコンテンツを生成するのを手伝ってください。あまり真剣にならず、表現は適切に活発で誠実であるべきです。";

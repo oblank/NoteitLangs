@@ -9,6 +9,5 @@
 "NSMicrophoneUsageDescription" = "בקשה להשתמש במיקרופון להקלטה";
 "NSFaceIDUsageDescription" = "משמש לפתיחת האפליקציה";
 "NSPhotoLibraryAddUsageDescription" = "אפשר גישה לשמירה או לגישה לתמונות בספריית התמונות";
-"NSPhotoLibraryUsageDescription" = "אנא אפשר גישה לספריית התמונות";
-"NSLocationWhenInUseUsageDescription" = "אנא אפשר גישה למפה";
-
+"NSPhotoLibraryUsageDescription" = "הרשאה לגשת לספריית התמונות לשמירה או גישה לתמונות";
+"NSLocationWhenInUseUsageDescription" = "אנא הרשה גישה למפה למטרת איתות מיקום";

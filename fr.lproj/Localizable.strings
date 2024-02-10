@@ -977,3 +977,6 @@
 
 "AI_CONVERSATION.PLAN_ASSIST" = "Assistant de planification";
 "AI_CONVERSATION.PLAN_ASSIST.PROMPT" = "Vous êtes un assistant personnel spécialisé dans la planification. Aidez-moi à faire des plans et fournissez des opérations détaillées pour mettre en œuvre le plan.";
+
+"AI_CONVERSATION.WECHAT_FEED" = "Assistant de publication sur WeChat Moments";
+"AI_CONVERSATION.WECHAT_FEED.PROMPT" = "Aidez-moi à générer un contenu court de moins de 140 caractères en fonction de la prompte d'entrée, pas trop sérieux, l'expression doit être appropriée, vive et sincère.";

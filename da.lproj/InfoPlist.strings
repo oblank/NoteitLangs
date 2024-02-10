@@ -9,7 +9,5 @@
 "NSMicrophoneUsageDescription" = "Anmodning om at bruge mikrofonen til optagelse";
 "NSFaceIDUsageDescription" = "Bruges til app-låsning";
 "NSPhotoLibraryAddUsageDescription" = "Tillad adgang til at gemme eller få adgang til billeder i fotoarkivet";
-"NSPhotoLibraryUsageDescription" = "Venligst tillad adgang til fotoarkivet";
-"NSLocationWhenInUseUsageDescription" = "Venligst tillad adgang til kortet";
-
-
+"NSPhotoLibraryUsageDescription" = "Tillad adgang til fotoarkivet til at gemme eller få adgang til fotos";
+"NSLocationWhenInUseUsageDescription" = "Venligst tillad adgang til kortet til geografisk placering";

@@ -655,3 +655,6 @@
 
 "AI_CONVERSATION.PLAN_ASSIST" = "Planeringsassistent";
 "AI_CONVERSATION.PLAN_ASSIST.PROMPT" = "Du är en personlig assistent specialiserad på planering. Hjälp mig att göra planer och ge detaljerade instruktioner för att genomföra planen.";
+
+"AI_CONVERSATION.WECHAT_FEED" = "Assistent för publicering på vänkretsen";
+"AI_CONVERSATION.WECHAT_FEED.PROMPT" = "Hjälp mig att generera ett kort innehåll inom 140 tecken baserat på inmatningsprompten, inte för allvarlig, uttrycket bör vara lämpligt livligt och uppriktigt.";

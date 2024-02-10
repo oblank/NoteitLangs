@@ -9,5 +9,5 @@
 "NSMicrophoneUsageDescription" = "请求用麦克风录音";
 "NSFaceIDUsageDescription" = "用于简单记解锁";
 "NSPhotoLibraryAddUsageDescription" = "允许访问图库保存或访问照片";
-"NSPhotoLibraryUsageDescription" = "请允许访问图库";
-"NSLocationWhenInUseUsageDescription" = "请允许访问地图";
+"NSPhotoLibraryUsageDescription" = "允许访问图库保存或访问照片";
+"NSLocationWhenInUseUsageDescription" = "请允许访问地图用于地理位置获取";

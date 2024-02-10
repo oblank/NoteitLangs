@@ -9,6 +9,6 @@
 "NSMicrophoneUsageDescription" = "Richiesta di utilizzo del microfono per la registrazione";
 "NSFaceIDUsageDescription" = "Utilizzato per lo sblocco dell'applicazione";
 "NSPhotoLibraryAddUsageDescription" = "Consenti l'accesso per salvare o accedere alle foto nella libreria foto";
-"NSPhotoLibraryUsageDescription" = "Si prega di consentire l'accesso alla libreria foto";
-"NSLocationWhenInUseUsageDescription" = "Si prega di consentire l'accesso alla mappa";
+"NSPhotoLibraryUsageDescription" = "Consentire l'accesso alla libreria foto per salvare o accedere alle foto";
+"NSLocationWhenInUseUsageDescription" = "Si prega di consentire l'accesso alla mappa per ottenere la posizione geografica";
 

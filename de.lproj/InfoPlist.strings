@@ -9,6 +9,5 @@
 "NSMicrophoneUsageDescription" = "Aufzeichnen mit dem Mikrofon anfordern";
 "NSFaceIDUsageDescription" = "Wird zur App-Entsperrung verwendet";
 "NSPhotoLibraryAddUsageDescription" = "Zugriff auf Speichern oder Abrufen von Fotos in der Fotobibliothek erlauben";
-"NSPhotoLibraryUsageDescription" = "Bitte Zugriff auf die Fotobibliothek erlauben";
-"NSLocationWhenInUseUsageDescription" = "Bitte Zugriff auf die Karte erlauben";
-
+"NSPhotoLibraryUsageDescription" = "Zugriff auf die Fotobibliothek zum Speichern oder Abrufen von Fotos erlauben";
+"NSLocationWhenInUseUsageDescription" = "Bitte erlauben Sie den Zugriff auf die Karte zur Geolokalisierung";

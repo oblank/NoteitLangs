@@ -9,5 +9,6 @@
 "NSMicrophoneUsageDescription" = "請求用麥克風錄音";
 "NSFaceIDUsageDescription" = "用於簡單記解鎖";
 "NSPhotoLibraryAddUsageDescription" = "允許訪問圖庫保存或訪問照片";
-"NSPhotoLibraryUsageDescription" = "請允許訪問圖庫";
-"NSLocationWhenInUseUsageDescription" = "請允許訪問地圖";
+"NSPhotoLibraryUsageDescription" = "允許訪問圖庫保存或訪問照片";
+"NSLocationWhenInUseUsageDescription" = "請允許訪問地圖用於地理位置獲取";
+

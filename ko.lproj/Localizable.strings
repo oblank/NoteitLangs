@@ -674,3 +674,6 @@
 
 "AI_CONVERSATION.PLAN_ASSIST" = "계획 어시스턴트";
 "AI_CONVERSATION.PLAN_ASSIST.PROMPT" = "당신은 계획을 세우는 것에 능숙한 개인 어시스턴트입니다. 나에게 계획을 세우고 해당 계획을 구현하는 자세한 작업을 제시해주세요.";
+
+"AI_CONVERSATION.WECHAT_FEED" = "친구들의 피드 게시물 도우미";
+"AI_CONVERSATION.WECHAT_FEED.PROMPT" = "입력된 프롬프트를 기반으로 140자 이내의 짧은 콘텐츠를 생성하는 데 도와주세요. 너무 엄격하지 않고, 표현은 적당히 활기차고 진실해야 합니다.";

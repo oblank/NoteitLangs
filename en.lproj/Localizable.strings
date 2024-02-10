@@ -256,7 +256,7 @@
 "请稍等" = "Please Wait";
 "高级功能：" = "Premium Features:";
 "免费功能：" = "Free Features:";
-"兑换优惠码" = "Redeem Discount Code";
+"兑换优惠码" = "Redeem";
 "主题颜色随意定制，个性随您。" = "Customize the theme color as you wish.";
 "支持暗黑模式。" = "Dark Mode Supported.";
 "个性应用图标可选。" = "Personalize your app icon.";
@@ -667,9 +667,19 @@
 "AI_CONVERSATION.PLAN_ASSIST" = "Planning Assistant";
 "AI_CONVERSATION.PLAN_ASSIST.PROMPT" = "You are a personal assistant specialized in planning. Please help me make plans and provide detailed operations for implementing the plan.";
 
+"AI_CONVERSATION.WECHAT_FEED" = "Feed Generator";
+"AI_CONVERSATION.WECHAT_FEED.PROMPT" = "Help me generate a short content within 140 characters based on the input prompt, not too serious, expressiveness should be appropriately lively and sincere.";
+
+
 "添加新Tag：" = "Create New Tag: ";
 
 "保存" = "Done";
 "图标：" = "Icon";
 "名称：" = "Title";
 "请输入名称" = "please input the title";
+
+"修改模型" = "Change Model";
+
+"清除历史记录" = "Clear History";
+"确认删除？" = "Confirm clear?";
+"确认删除" = "Confirm";

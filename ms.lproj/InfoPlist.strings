@@ -9,7 +9,5 @@
 "NSMicrophoneUsageDescription" = "Permintaan untuk menggunakan mikrofon untuk rakaman";
 "NSFaceIDUsageDescription" = "Digunakan untuk membuka kunci aplikasi";
 "NSPhotoLibraryAddUsageDescription" = "Benarkan akses untuk menyimpan atau mengakses gambar dalam pustaka foto";
-"NSPhotoLibraryUsageDescription" = "Sila benarkan akses ke pustaka foto";
-"NSLocationWhenInUseUsageDescription" = "Sila benarkan akses ke peta";
-
-
+"NSPhotoLibraryUsageDescription" = "Izinkan akses ke perpustakaan foto untuk menyimpan atau mengakses foto";
+"NSLocationWhenInUseUsageDescription" = "Mohon izinkan akses ke peta untuk pengambilan lokasi geografis";

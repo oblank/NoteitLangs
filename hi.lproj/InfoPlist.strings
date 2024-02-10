@@ -9,7 +9,5 @@
 "NSMicrophoneUsageDescription" = "रिकॉर्डिंग के लिए माइक्रोफोन का उपयोग करने का अनुरोध";
 "NSFaceIDUsageDescription" = "एप्लिकेशन अनलॉक करने के लिए उपयोग किया जाता है";
 "NSPhotoLibraryAddUsageDescription" = "फोटो लाइब्रेरी में फोटो जोड़ने या एक्सेस करने के लिए पहुंच की अनुमति दें";
-"NSPhotoLibraryUsageDescription" = "कृपया फोटो लाइब्रेरी तक पहुंच देने की अनुमति दें";
-"NSLocationWhenInUseUsageDescription" = "कृपया मानचित्र तक पहुंच देने की अनुमति दें";
-
-
+"NSPhotoLibraryUsageDescription" = "सहेजने या फोटो तक पहुंचने के लिए फोटो लाइब्रेरी तक पहुंच दें";
+"NSLocationWhenInUseUsageDescription" = "भौगोलिक स्थान प्राप्ति के लिए मानचित्र तक पहुंच देने के लिए कृपया अनुमति दें";
